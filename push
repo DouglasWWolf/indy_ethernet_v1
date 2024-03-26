@@ -1,0 +1,4 @@
+
+git add *.xml sim src xgui push README.md
+git commit -m "No commit message"
+git push origin main
